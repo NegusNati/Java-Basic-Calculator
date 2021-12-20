@@ -78,7 +78,7 @@ public class Calculator_Full implements ActionListener {
         negButton.setBounds(50,430,100,50);
         delButton.setBounds(150,430,100,50);       
         clrButton.setBounds(250,430,100,50);
-
+        String Negus;
         panel = new JPanel();
         panel.setBounds(50,100,300,300);
         panel.setLayout(new GridLayout(4,4,10,10));
